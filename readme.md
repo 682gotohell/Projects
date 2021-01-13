@@ -1,3 +1,4 @@
-I am a C++/Python/HTML developer.
+This is the code for snow in python .
 
-I post my projects' code in github
+1. Download and open the file .
+2. Enjoy
